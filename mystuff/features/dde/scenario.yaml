@@ -1,0 +1,11 @@
+---
+- Model: FireTurtleV1
+  Type: FireTurtle
+  Attributes:
+    Name: Bob
+    Shell:
+      Color: Blue
+- Model: FireUnicornV1
+  Type: FireUnicorn
+  Attributes:
+    Name: Caroline
